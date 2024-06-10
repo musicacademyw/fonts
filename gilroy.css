@@ -1,0 +1,39 @@
+/* Gilroy Regular Italic */
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://cdn.statically.io/gh/musicacademyw/fonts/main/Gilroy-RegularItalic.woff2') format('woff2'),
+    url('https://cdn.statically.io/gh/musicacademyw/fonts/main/Gilroy-RegularItalic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Gilroy Regular */
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://cdn.statically.io/gh/musicacademyw/fonts/main/Gilroy-Regular.woff2') format('woff2'),
+    url('https://cdn.statically.io/gh/musicacademyw/fonts/main/Gilroy-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Gilroy Bold Italic */
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://cdn.statically.io/gh/musicacademyw/fonts/main/Gilroy-BoldItalic.woff2') format('woff2'),
+    url('https://cdn.statically.io/gh/musicacademyw/fonts/main/Gilroy-BoldItalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Gilroy Bold */
+@font-face {
+    font-family: 'Gilroy';
+    src: url('https://cdn.statically.io/gh/musicacademyw/fonts/main/Gilroy-Bold.woff2') format('woff2'),
+    url('https://cdn.statically.io/gh/musicacademyw/fonts/main/Gilroy-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}

@@ -41,8 +41,8 @@
 /* Didot Bold */
 @font-face {
     font-family: 'Didot';
-    src: url('https/cdn.statically.io/gh/musicacademyw/fonts/main/Didot-HTF-B16-Bold-Ital.woff2') format('woff2'),
-        url('https/cdn.statically.io/gh/musicacademyw/fonts/main/Didot-HTF-B16-Bold-Ital.woff') format('woff');
+    src: url('https://cdn.statically.io/gh/musicacademyw/fonts/main/Didot-HTF-B16-Bold-Ital.woff2') format('woff2'),
+        url('https://cdn.statically.io/gh/musicacademyw/fonts/main/Didot-HTF-B16-Bold-Ital.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -51,8 +51,8 @@
 /* Didot Medium */
 @font-face {
     font-family: 'Didot';
-    src: url('https/cdn.statically.io/gh/musicacademyw/fonts/main/Didot-HTF-M96-Medium.woff2') format('woff2'),
-        url('https/cdn.statically.io/gh/musicacademyw/fonts/main/Didot-HTF-M96-Medium.woff') format('woff');
+    src: url('https://cdn.statically.io/gh/musicacademyw/fonts/main/Didot-HTF-M96-Medium.woff2') format('woff2'),
+        url('https://cdn.statically.io/gh/musicacademyw/fonts/main/Didot-HTF-M96-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -61,8 +61,8 @@
 /* Didot Regular */
 @font-face {
     font-family: 'Didot';
-    src: url('https/cdn.statically.io/gh/musicacademyw/fonts/main/Didot.woff2') format('woff2'),
-        url('https/cdn.statically.io/gh/musicacademyw/fonts/main/Didot.woff') format('woff');
+    src: url('https://cdn.statically.io/gh/musicacademyw/fonts/main/Didot.woff2') format('woff2'),
+        url('https://cdn.statically.io/gh/musicacademyw/fonts/main/Didot.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -71,8 +71,8 @@
 /* Didot LT Std Bold */
 @font-face {
     font-family: 'Didot LT Std';
-    src: url('https/cdn.statically.io/gh/musicacademyw/fonts/main/DidotLTStd-Bold.woff2') format('woff2'),
-        url('https/cdn.statically.io/gh/musicacademyw/fonts/main/DidotLTStd-Bold.woff') format('woff');
+    src: url('https://cdn.statically.io/gh/musicacademyw/fonts/main/DidotLTStd-Bold.woff2') format('woff2'),
+        url('https://cdn.statically.io/gh/musicacademyw/fonts/main/DidotLTStd-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -81,8 +81,8 @@
 /* Didot LT Std Italic */
 @font-face {
     font-family: 'Didot LT Std';
-    src: url('https/cdn.statically.io/gh/musicacademyw/fonts/main/DidotLTStd-Italic.woff2') format('woff2'),
-        url('https/cdn.statically.io/gh/musicacademyw/fonts/main/DidotLTStd-Italic.woff') format('woff');
+    src: url('https://cdn.statically.io/gh/musicacademyw/fonts/main/DidotLTStd-Italic.woff2') format('woff2'),
+        url('https://cdn.statically.io/gh/musicacademyw/fonts/main/DidotLTStd-Italic.woff') format('woff');
     font-weight: normal;
     font-style: italic;
     font-display: swap;

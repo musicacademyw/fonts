@@ -11,8 +11,8 @@
 /* Rollete Quaku Uppercase */
 @font-face {
     font-family: 'rollete-quaku-uppercase';
-    src: url('https://cdn.statically.io/gh/musicacademyw/fonts/main/RolleteQaku-Uppercase.woff2') format('woff2'),
-        url('https://cdn.statically.io/gh/musicacademyw/fonts/main/RolleteQaku-Uppercase.woff') format('woff');
+    src: url('https://cdn.statically.io/gh/musicacademyw/fonts/main/RolleteQakuUppercase-Regular.woff2') format('woff2'),
+        url('https://cdn.statically.io/gh/musicacademyw/fonts/main/RolleteQakuUppercase-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
